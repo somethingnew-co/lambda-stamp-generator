@@ -206,7 +206,7 @@ const Generator = () => {
 
   useEffect(() => {
     if (fontLoaded && paths) {
-      drawData.current.general.innerImage = 'base_logo'
+      drawData.current.general.innerImage = 'Lambda Logo'
       redraw()
       drawData.current.exporting.export = () => {
         exportAsset(
@@ -232,10 +232,12 @@ const Generator = () => {
       primaryTextKnob.onChange(redraw)
       const secondaryTextKnob = gui.add(drawData.current.general, 'secondaryText').name('Secondary Text')
       secondaryTextKnob.onChange(redraw)
-      const innerStrokeKnob = gui.add(drawData.current.general, 'innerStroke').name('Inner Stroke')
-      innerStrokeKnob.onChange(redraw)
-      const outerStrokeKnob = gui.add(drawData.current.general, 'outerStroke').name('Outer Stroke')
-      outerStrokeKnob.onChange(redraw)
+      /*
+       * const innerStrokeKnob = gui.add(drawData.current.general, 'innerStroke').name('Inner Stroke')
+       * innerStrokeKnob.onChange(redraw)
+       * const outerStrokeKnob = gui.add(drawData.current.general, 'outerStroke').name('Outer Stroke')
+       * outerStrokeKnob.onChange(redraw)
+       */
 
       const primaryTextFolder = gui.addFolder('Exporting')
       const typeKnob = primaryTextFolder.add(drawData.current.exporting, 'type', ['svg', 'png']).name('Type')
