@@ -57,7 +57,7 @@ npm run build
 This is the initial directory structure:
 
 ```
-lambda-school
+lambda-stamp-generator
 ├── src
 │   ├── assets/
 │   ├── components/
