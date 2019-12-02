@@ -26,6 +26,7 @@ build/
 # Garbage
 .DS_Store
 .firebase/
+.firebaserc
 firebase*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
