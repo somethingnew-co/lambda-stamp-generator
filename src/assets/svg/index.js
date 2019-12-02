@@ -45,7 +45,7 @@ const usePaths = () => {
       'Illinois': city_illinois_1,
       'Chicago': city_illinois,
       'Taj Mahal': city_india1,
-      'India 2': city_india2,
+      'India': city_india2,
       'Kenya': city_kenya,
       'New York': city_newyork_1,
       'Empire State': city_newyork,
