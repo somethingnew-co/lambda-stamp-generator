@@ -1,0 +1,82 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 252 252">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-3,
+            .cls-4 {
+                fill: none;
+            }
+
+            .cls-2 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-3,
+            .cls-4 {
+                stroke-linecap: round;
+                stroke-linejoin: round;
+            }
+
+            .cls-3 {
+                stroke-width: 2.4px;
+            }
+
+            .cls-4 {
+                stroke-width: 1.95px;
+            }
+        </style>
+        <clipPath id="clip-path">
+            <circle class="cls-1" cx="126" cy="126.39" r="58.05" />
+        </clipPath>
+    </defs>
+    <title>Lambda_Stamps_course-city</title>
+    <g class="cls-2">
+        <path class="cls-3" d="M103.57,123.76c0-11.18,10-18.91,22.33-18.91s22.33,7.73,22.33,18.91" />
+        <rect class="cls-3" x="102.8" y="123.76" width="46.2" height="3.97" rx="1.44" />
+        <rect class="cls-3" x="100.75" y="127.62" width="50.51" height="7.48" rx="1.44" />
+        <rect class="cls-3" x="98.83" y="143.28" width="54.35" height="7.12" rx="1.4" />
+        <rect class="cls-3" x="97.69" y="162.04" width="56.62" height="7.48" rx="1.44" />
+        <line class="cls-3" x1="102.41" y1="135.1" x2="102.41" y2="143.28" />
+        <line class="cls-3" x1="100.75" y1="150.76" x2="100.75" y2="162.04" />
+        <line class="cls-4" x1="106.33" y1="150.76" x2="106.33" y2="162.04" />
+        <line class="cls-4" x1="108.02" y1="136.81" x2="108.02" y2="143.28" />
+        <line class="cls-4" x1="114.2" y1="114.86" x2="110.96" y2="120.46" />
+        <line class="cls-4" x1="120.25" y1="115.7" x2="117.99" y2="119.62" />
+        <line class="cls-4" x1="131.84" y1="115.7" x2="134.11" y2="119.62" />
+        <line class="cls-4" x1="137.49" y1="114.86" x2="140.73" y2="120.46" />
+        <line class="cls-4" x1="104.63" y1="172.55" x2="104.63" y2="185.68" />
+        <line class="cls-4" x1="113.32" y1="172.55" x2="113.32" y2="185.68" />
+        <line class="cls-4" x1="122.01" y1="172.55" x2="122.01" y2="185.68" />
+        <line class="cls-4" x1="130.7" y1="172.55" x2="130.7" y2="185.68" />
+        <line class="cls-4" x1="139.4" y1="172.55" x2="139.4" y2="185.68" />
+        <line class="cls-4" x1="148.09" y1="172.55" x2="148.09" y2="185.68" />
+        <line class="cls-4" x1="114.09" y1="136.81" x2="114.09" y2="143.28" />
+        <line class="cls-4" x1="120.17" y1="136.81" x2="120.17" y2="143.28" />
+        <line class="cls-4" x1="126.24" y1="136.81" x2="126.24" y2="143.28" />
+        <line class="cls-4" x1="126.24" y1="114.42" x2="126.24" y2="120.9" />
+        <line class="cls-4" x1="132.31" y1="136.81" x2="132.31" y2="143.28" />
+        <line class="cls-4" x1="138.38" y1="136.81" x2="138.38" y2="143.28" />
+        <line class="cls-4" x1="144.46" y1="136.81" x2="144.46" y2="143.28" />
+        <line class="cls-4" x1="111.92" y1="150.76" x2="111.92" y2="162.04" />
+        <line class="cls-4" x1="117.5" y1="150.76" x2="117.5" y2="162.04" />
+        <line class="cls-4" x1="123.09" y1="150.76" x2="123.09" y2="162.04" />
+        <line class="cls-4" x1="128.67" y1="150.76" x2="128.67" y2="162.04" />
+        <line class="cls-4" x1="134.26" y1="150.76" x2="134.26" y2="162.04" />
+        <line class="cls-4" x1="139.84" y1="150.76" x2="139.84" y2="162.04" />
+        <line class="cls-4" x1="145.43" y1="150.76" x2="145.43" y2="162.04" />
+        <line class="cls-3" x1="151.02" y1="150.76" x2="151.02" y2="162.04" />
+        <line class="cls-3" x1="171.15" y1="167.28" x2="154.31" y2="167.28" />
+        <line class="cls-3" x1="97.69" y1="167.28" x2="80.85" y2="167.28" />
+        <line class="cls-3" x1="157.99" y1="189.46" x2="96.74" y2="189.46" />
+        <line class="cls-3" x1="149.71" y1="135.1" x2="149.71" y2="143.28" />
+        <path class="cls-3" d="M99.45,169.53v2.84A1.44,1.44,0,0,1,98,173.8H84.41" />
+        <path class="cls-3" d="M152.55,169.53v2.84A1.44,1.44,0,0,0,154,173.8h14.82" />
+        <path class="cls-3" d="M118.29,106v-4a1.43,1.43,0,0,1,1.44-1.44h13.09a1.43,1.43,0,0,1,1.44,1.44v4" />
+        <line class="cls-3" x1="122.86" y1="91.22" x2="122.86" y2="100.49" />
+        <line class="cls-3" x1="129.48" y1="91.22" x2="129.48" y2="100.49" />
+        <line class="cls-3" x1="133.1" y1="91.22" x2="118.92" y2="91.22" />
+        <circle class="cls-3" cx="126.11" cy="88.48" r="2.75" />
+        <line class="cls-3" x1="126.28" y1="74.18" x2="126.28" y2="85.73" />
+    </g>
+</svg>

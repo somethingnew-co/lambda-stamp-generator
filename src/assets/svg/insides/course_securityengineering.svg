@@ -1,0 +1,61 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 252 252">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-3,
+            .cls-4,
+            .cls-5 {
+                fill: none;
+            }
+
+            .cls-2 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-3,
+            .cls-4,
+            .cls-5 {}
+
+            .cls-3,
+            .cls-4 {
+                stroke-linecap: round;
+                stroke-linejoin: round;
+            }
+
+            .cls-3,
+            .cls-5 {
+                stroke-width: 2.54px;
+            }
+
+            .cls-4 {
+                stroke-width: 2.49px;
+            }
+
+            .cls-5 {
+                stroke-miterlimit: 10;
+            }
+
+            .cls-6 {
+                stroke: none;
+                fill-rule: evenodd;
+            }
+        </style>
+        <clipPath id="clip-path">
+            <circle class="cls-1" cx="125.72" cy="125.86" r="58.33" />
+        </clipPath>
+    </defs>
+    <title>Lambda_Stamps_course-city</title>
+    <g class="cls-2">
+        <rect class="cls-3" x="88.22" y="116.86" width="74.99" height="74.99" rx="2.51" />
+        <path class="cls-4"
+            d="M98.67,116.86V105.28c0-15.45,12.17-28.1,27.05-28.1h0c14.88,0,27.05,12.65,27.05,28.1v11.58" />
+        <path class="cls-4"
+            d="M104.17,116.86V105c0-12.32,9.7-22.39,21.55-22.39h0c11.86,0,21.56,10.07,21.56,22.39v11.87" />
+        <rect class="cls-5" x="111.56" y="177.86" width="4.82" height="4.82" rx="1.6" />
+        <rect class="cls-5" x="135.06" y="177.86" width="4.82" height="4.82" rx="1.6" />
+        <rect class="cls-5" x="123.31" y="177.86" width="4.82" height="4.82" rx="1.6" />
+    </g>
+    <path class="cls-6"
+        d="M134.85,164.93l-.73-2-10-26.2c-.6,1.54-2,5.24-3.48,9.21L115,161.41a1.37,1.37,0,0,0,.08,1.39c.41.48,1.31.49,2.73.49H118v1.64h-10.7v-1.64h.82a3.74,3.74,0,0,0,3.55-2.44l1.09-2.47L122.71,133,121,128.33h9.24L143,161.9l1.17,3Z" />
+</svg>

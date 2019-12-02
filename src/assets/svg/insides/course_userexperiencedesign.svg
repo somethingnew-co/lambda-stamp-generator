@@ -1,0 +1,37 @@
+<svg id="Layer_1" id="ac12c9c2-6293-466a-977b-cde73371b3af" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 252">
+  <defs>
+    <style>
+      .a85b6d9c-1b8d-487a-9142-2ea98c0437d7, .b37c2f04-70c2-4225-8b4d-ca8f234d045d, .ef62ce9b-f188-4252-a8de-511be333981b {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .a85b6d9c-1b8d-487a-9142-2ea98c0437d7 {
+        stroke-width: 2.25px;
+      }
+
+      .b37c2f04-70c2-4225-8b4d-ca8f234d045d {
+        stroke-width: 1.87px;
+      }
+
+      .ef62ce9b-f188-4252-a8de-511be333981b {
+        stroke-width: 2.03px;
+      }
+
+      .b829e290-e11a-468f-93a2-6f6c27af156d {
+        stroke: none;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>course_userexperiencedesign</title>
+  <g>
+    <g>
+      <path class="a85b6d9c-1b8d-487a-9142-2ea98c0437d7" d="M71.48,146.63c11.24-12.14,31.45-20.24,54.52-20.24s43.28,8.1,54.52,20.24"/>
+      <polyline class="b37c2f04-70c2-4225-8b4d-ca8f234d045d" points="126 126.39 126 153.87 126 169.25 126 184.19"/>
+      <line class="ef62ce9b-f188-4252-a8de-511be333981b" x1="173.12" y1="160.25" x2="78.88" y2="160.25"/>
+      <path class="a85b6d9c-1b8d-487a-9142-2ea98c0437d7" d="M91.82,173.13c3-26.6,17.16-46.74,34.18-46.74s31.18,20.14,34.18,46.74"/>
+    </g>
+    <path class="b829e290-e11a-468f-93a2-6f6c27af156d" d="M135.13,117.77l-.73-2-10-26.19c-.59,1.53-2,5.24-3.48,9.2l-5.72,15.46a1.38,1.38,0,0,0,.07,1.38c.42.49,1.32.49,2.74.49h.26v1.65h-10.7v-1.65h.83a3.74,3.74,0,0,0,3.55-2.43l1.09-2.47L123,85.85l-1.75-4.68h9.24l12.76,33.56,1.17,3Z"/>
+  </g>
+</svg>

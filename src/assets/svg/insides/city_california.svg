@@ -1,0 +1,36 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 252 252">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-3 {
+                fill: none;
+            }
+
+            .cls-2 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-3 {
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                stroke-width: 2.25px;
+            }
+        </style>
+        <clipPath id="clip-path">
+            <circle class="cls-1" cx="125.72" cy="126.39" r="58.05" />
+        </clipPath>
+    </defs>
+    <title>Lambda_Stamps_course-city</title>
+    <g class="cls-2">
+        <line class="cls-3" x1="68.44" y1="157.12" x2="185.46" y2="157.12" />
+        <path class="cls-3"
+            d="M68.05,129.61A36,36,0,0,0,85.41,98.28s-2.46,40.6,42.87,40.6c40.69,0,39.11-40.6,39.11-40.6s2.56,31.95,18.45,34.51" />
+        <line class="cls-3" x1="85.23" y1="102.09" x2="85.23" y2="186.37" />
+        <line class="cls-3" x1="167.72" y1="102.09" x2="167.72" y2="186.37" />
+        <line class="cls-3" x1="102.33" y1="132.59" x2="102.33" y2="157.12" />
+        <line class="cls-3" x1="151.57" y1="132.85" x2="151.57" y2="157.12" />
+        <line class="cls-3" x1="134.55" y1="138.76" x2="134.55" y2="156.74" />
+        <line class="cls-3" x1="118.19" y1="138.76" x2="118.19" y2="156.74" />
+    </g>
+</svg>

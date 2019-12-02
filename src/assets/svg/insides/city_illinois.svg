@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 252">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-2 {
+                fill: none;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+            }
+
+            .cls-1 {
+                stroke-width: 2.25px;
+            }
+
+            .cls-2 {
+                stroke-width: 2.13px;
+            }
+        </style>
+    </defs>
+    <title>Lambda_Stamps_course-city</title>
+    <path class="cls-1"
+        d="M172.89,129.6s-14.15-23.06-47.65-23.06c-25.36,0-40.95,10.57-47.91,23.06C72.65,138,71.16,170.94,110,158a1.48,1.48,0,0,0,.29-.12c1.55-.81,16.67-8.3,30.62.07C158.48,168.42,187.93,155,172.89,129.6Z" />
+    <path class="cls-1" d="M85.68,126.21s10.83-15.51,37.46-16.39" />
+    <path class="cls-1" d="M137.94,156.35s-4.85-6.73-22.12-5.26" />
+    <line class="cls-2" x1="80.08" y1="161.51" x2="171.92" y2="161.51" />
+</svg>

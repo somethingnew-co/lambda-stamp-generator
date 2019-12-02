@@ -1,0 +1,42 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 252 252">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-3 {
+                fill: none;
+            }
+
+            .cls-2 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-3 {
+                stroke-miterlimit: 10;
+                stroke-width: 3.36px;
+            }
+
+            .cls-4,
+            .cls-5 {
+                stroke: none;
+            }
+
+            .cls-5 {
+                fill-rule: evenodd;
+            }
+        </style>
+        <clipPath id="clip-path">
+            <circle class="cls-1" cx="-1170.28" cy="125.86" r="58.33" />
+        </clipPath>
+    </defs>
+    <title>Lambda_Stamps_course-city</title>
+    <polyline class="cls-3" points="105.58 101.73 82.26 111.33 126.21 129.42 170.16 111.33 147.01 101.8" />
+    <polygon class="cls-4"
+        points="86.62 123.51 77.83 123.51 126.21 143.42 174.42 123.51 165.98 123.51 126.12 139.24 86.62 123.51" />
+    <polygon class="cls-4"
+        points="86.62 135.39 77.83 135.39 126.21 155.3 174.42 135.39 165.98 135.39 126.12 151.12 86.62 135.39" />
+    <polygon class="cls-4"
+        points="86.62 147.27 77.83 147.27 126.21 167.18 174.42 147.27 165.98 147.27 126.12 163 86.62 147.27" />
+    <path class="cls-5"
+        d="M134.58,111l-.69-1.87-9.35-24.6c-.56,1.44-1.86,4.92-3.27,8.65l-5.37,14.51A1.27,1.27,0,0,0,116,109c.38.46,1.23.46,2.57.46h.24V111h-10v-1.54h.77a3.52,3.52,0,0,0,3.34-2.29l1-2.32L123.17,81l-1.65-4.39h8.68l12,31.52,1.1,2.85Z" />
+</svg>

@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 252">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: none;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                stroke-width: 2.25px;
+            }
+        </style>
+    </defs>
+    <title>Lambda_Stamps_course-city</title>
+    <polygon class="cls-1"
+        points="126 100.55 133.78 116.32 151.18 118.85 138.59 131.12 141.56 148.45 126 140.26 110.44 148.45 111.85 140.22 113.41 131.12 100.82 118.85 118.22 116.32 126 100.55" />
+    <line class="cls-1" x1="79.94" y1="90.55" x2="172.06" y2="90.55" />
+    <line class="cls-1" x1="79.94" y1="161.45" x2="172.06" y2="161.45" />
+</svg>
