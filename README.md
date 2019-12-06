@@ -17,7 +17,7 @@ npm install
 Run this to start the development server:
 
 ```bash
-npm start
+npm run dev
 ```
 
 Open http://localhost:8080/ to see your app in browser.
@@ -94,5 +94,3 @@ lambda-stamp-generator
 [load-svg]: https://github.com/substack/load-svg
 [WebFontLoader]: https://github.com/typekit/webfontloader
 [save-svg-as-png]: https://github.com/exupero/saveSvgAsPng
-
-
